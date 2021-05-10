@@ -72,5 +72,9 @@ body {
   font-size: 250%;
 }
 .bg-color {
-  background-color: #696969;  
+  background-color: #696969;
+}
+.curved{
+  border: 2px solid grey;
+  border-radius: 50px;
 }
